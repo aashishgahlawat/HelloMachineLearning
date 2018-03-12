@@ -1,0 +1,48 @@
+Prerequisits:
+
+Step 1) Learn Basics of Python - recommended
+Step 2) Know Higher Level Maths (college level) -  recommended (not a must)
+Step 3) Learn and implement Algorithms - recommended (not a must) 
+Step 4) For theoretical knowledge visit coursera and take Andrew Ng free Introduction to Machine Learning course. - recommended
+
+
+Algorithms:
+
+For starting with algorithms read a book like CLRS of have coursera free introduction to algorithms course (Better than book) of use MIT OCW
+goto codechef (for help, just ask a qustion and people will help you out) or codeforces (recommended for problems solving)
+got to problemset of problems and then sort them by the max solved as easiest one will be more solved by people, like print hello world will be more solved than a complex problme
+read problem
+write code in any language as the format they specify strictly and then output the same format as asked
+use sublime test editor 
+
+for c++ setup
+install mingw
+install sublime
+youtube for how to setup sublime for competetive programming
+google how to run cpp code in sublime as you'll need a build tool for that purpose
+
+
+Python: Watch CS Dojo python videos on youtube or on freecodecamp implement or you may find this one easily.
+
+
+Practical Implementation of ML:
+
+
+One Way:
+Go to youtube and search for google developers youtube official google channel and look for their Machine Learning Playlist (of ML with cloud)
+
+
+Another way i suggest:
+google and download install anaconda with python 3.6 or above (will install everything like python, and all libraries needed)
+Go to Kaggle
+sign-up
+goto competetion
+goto titanic disaster problem
+goto data tab and download all files to local storage
+goto tutorials page of titanic problem under data tab itself
+there under getting started with python
+either go with scikit learn link where youtube videos will be available for beginners
+or i suggest if done with coursera then
+in external tutorials section at last click on python which redirects to datacamp website which is best for implementation side by side.
+
+Thankyou
